@@ -8,3 +8,45 @@ header{
     padding: 20px;
     text-align: center;
 }
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+.placeholder-img {
+    background-color: #d3d3d3;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #555;
+}
+.placeholder-img img{
+    width: 100%;
+    height: 400px;
+    object-fit: fill;
+}
+.placeholder-video {
+    background-color: #d3d3d3;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #555;
+}
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+.flex-item {
+    flex: 1;
+    padding: 10px;
+    background-color: #f4f4f4;
+    text-align: center;
+    border: 1px solid #ddd;
+}
