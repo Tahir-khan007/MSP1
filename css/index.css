@@ -50,3 +50,8 @@ footer {
     text-align: center;
     border: 1px solid #ddd;
 }
+
+.socials i {
+    margin: 10px;
+    color: white;
+}
