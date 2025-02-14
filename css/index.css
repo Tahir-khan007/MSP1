@@ -54,7 +54,10 @@ footer {
     text-align: center;
     border: 1px solid #ddd;
 }
-
+.socials i {
+    margin: 10px;
+    color: white;
+}
 @media (min-width: 1025px) {
     .placeholder-video iframe {
         height: 625px;
@@ -77,8 +80,4 @@ footer {
     .placeholder-video iframe {
         height: 300px;
     }
-.socials i {
-    margin: 10px;
-    color: white;
-}
 }
