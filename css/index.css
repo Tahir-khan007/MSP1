@@ -77,4 +77,8 @@ footer {
     .placeholder-video iframe {
         height: 300px;
     }
+.socials i {
+    margin: 10px;
+    color: white;
+}
 }

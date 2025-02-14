@@ -26,3 +26,8 @@ footer {
     height: 300px;
     width: 300px;
 }
+
+.socials i {
+    margin: 10px;
+    color: white;
+}
