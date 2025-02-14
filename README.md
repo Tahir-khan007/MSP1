@@ -93,11 +93,11 @@ Font Awesome – Icons for social media links.
 ✅ Validation Tests
 HTML – Passed W3C validation.
     Homepage
-
+    ![alt text](images/testing-screenshots/image-6.png)
     Gallery Page
-
+    ![alt text](images/testing-screenshots/image-7.png)
     Contact Page
-
+    ![alt text](images/testing-screenshots/image-8.png)
 CSS – No major errors found.
     For Home Page
     ![alt text](images/testing-screenshots/image.png)
