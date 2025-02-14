@@ -1,40 +1,122 @@
-Green Genie Landscapes
-Features
-Custom Garden Design: Create bespoke, beautiful garden designs that fit your unique style and needs.
-Porcelain Paving: Durable and stylish paving solutions for your outdoor spaces.
-Artificial Grass: Low-maintenance, year-round greenery to keep your garden looking fresh.
-Before & After Transformations: See the dramatic change we bring to gardens through our portfolio and video showcases.
-Easy Contact: Reach out to us easily through our contact form to inquire about our services or request a quote.
-Technologies Used
-This website is built using the following technologies:
+🌿 Green Genie Landscapes
+A responsive website for a landscaping company offering garden design, paving, and artificial grass solutions.
+🔗 Live Website: (https://tahir-khan007.github.io/mlp1/)
+🔗 GitHub Repository: (https://github.com/Tahir-khan007/mlp1)
 
-HTML5 for the structure of the pages.
-CSS3 for styling and layout.
-Bootstrap for responsive design and UI components.
-JavaScript for interactive features.
-YouTube Embeds for showcasing transformation videos.
-Font Awesome for social media icons.
-Pages
-Home
-The Home page introduces visitors to the Green Genie Landscapes brand, offering a welcoming message, an overview of services, and the unique value proposition. It features a responsive design with a clean navigation bar linking to the gallery, contact, and home sections.
+📌 Project Overview
+Green Genie Landscapes is a modern, user-friendly website designed to showcase the company’s services, including:
+✅ Custom Garden Design – Tailored outdoor spaces for clients.
+✅ Porcelain Paving – Durable and stylish paving solutions.
+✅ Artificial Grass – Low-maintenance greenery for all seasons.
+✅ Before & After Transformations – Showcasing completed projects.
+✅ Easy Contact Form – Quick inquiries and quote requests.
 
-Key Sections:
-Welcome message with an image of a stunning outdoor space.
-Overview of services: Garden Design, Porcelain Paving, and Artificial Grass.
-Benefits of choosing Green Genie, including expertise, quality, and professionalism.
-Before & After transformation video.
-Gallery
-The Gallery page displays a collection of images showcasing our completed projects. It serves as a portfolio to give potential clients a clear idea of our work and the quality of our services.
+🎯 Business Goals
+🔹 Increase customer inquiries and bookings for services.
+🔹 Provide a professional online presence for the company.
+🔹 Showcase before & after transformations to attract potential clients.
 
-Key Features:
-A flexbox of images showcasing various landscaping projects.
-Interactive gallery for a closer look at each image.
-Contact
-The Contact page enables potential clients to reach out to Green Genie Landscapes for inquiries, quotes, or consultation. A contact form is available for easy communication.
+👥 User Experience (UX)
 
-Key Features:
-Contact form to collect visitor's name, email, and message.
-Clear instructions on how to get in touch for more information.
-Challenges Faced
-One of the challenges during development was styling the social media links in the footer. Initially, the Font Awesome icons were not displaying at the right size, even after using the fa-xl class. After struggling with different approaches, I reached out to my nephew, who helped me identify the issue. We fixed it by properly implementing Font Awesome classes and ensuring that the CSS styles were correctly applied. This experience highlighted the importance of seeking help, troubleshooting effectively, and continuous learning in web development.
+🎯 User Stories
+👤 First-Time Visitors
+    Quickly understand the services offered.
+    View the before & after video for inspiration.
+    Easily find contact details & request a quote.
+🔄 Returning Users
+    Use the contact form to inquire about services.
+    Follow the company on social media for updates.
 
+<!-- 🏗 Wireframes (W3R)
+The website’s structure was planned using wireframes to ensure a clear and effective user experience. The wireframes were created using Balsamiq.
+Device
+Wireframe
+Desktop
+(Replace with actual wireframe image)
+Tablet
+(Replace with actual wireframe image)
+Mobile
+(Replace with actual wireframe image)
+📄 View Full Wireframe Document: Download PDF -->
+
+🎨 Design Choices
+
+🌈 Color Scheme
+Green & Earth Tones: Represent nature, growth, and sustainability.
+White & Grey Accents: Give a clean and modern feel.
+
+🖋 Typography
+Poppins Font for Headings and Paragraphs
+Headings: A bold, modern font for clarity.
+Paragraphs: A simple, easy-to-read font for accessibility.
+
+🖼 Images
+Hero Image: A stunning outdoor space to attract users' attention.
+Before & After Gallery: Demonstrates the company’s expertise.
+
+🏗 Features
+✅ Navigation Bar – Clear links to Home, Gallery, and Contact pages.
+✅ Image Gallery – Showcases completed landscaping projects.
+✅ Contact Form – Allows customers to request quotes easily.
+✅ Social Media Links – Enables users to connect on platforms like Facebook & Instagram.
+
+🔮 Future Features:
+Online Booking System – Allow users to schedule consultations.
+Testimonials Section – Show reviews from satisfied clients.
+
+🛠 Technologies Used
+HTML5 – Page structure.
+CSS3 – Styling and layout.
+Bootstrap – Responsive design.
+Font Awesome – Icons for social media links.
+
+🛠 Development & Deployment
+🔹 Version Control & Deployment
+        Developed using Git & GitHub.
+        Hosted on GitHub Pages.
+
+🔹 Clone This Repository Locally
+        git clone https://github.com/tahir-khan007/mlp1.git
+
+🔹 Forking This Repository
+        Log into GitHub.
+        Locate the repository and click Fork at the top right.
+        You now have a copy of the project in your GitHub account.
+
+🧪 Testing
+    Html Homepage testing results
+    ![alt text](images/testing-screenshots/image-3.png)
+    Html Gallery Page Testing results
+    ![alt text](images/testing-screenshots/image-4.png)
+    Html Contact Page Testing Results
+    ![alt text](images/testing-screenshots/image-5.png)
+✅ Validation Tests
+HTML – Passed W3C validation.
+    Homepage
+
+    Gallery Page
+
+    Contact Page
+
+CSS – No major errors found.
+    For Home Page
+    ![alt text](images/testing-screenshots/image.png)
+    For Gallery Page
+    ![alt text](images/testing-screenshots/image-1.png)
+    For Contact Page
+    ![alt text](images/testing-screenshots/image-2.png)
+
+🏆 Challenges & Learning
+🔹 Font Awesome Social Links Issue: Initially, the Font Awesome icons were too large when using the fa-xl class. My nephew helped troubleshoot the issue by adjusting the CSS styling manually.
+🔹 Contact Form Alignment: Ensured proper spacing & responsiveness for different screen sizes.
+
+📌 Future Enhancements
+    🚀 Improve SEO – Optimize metadata for better Google ranking.
+    🚀 Add Client Testimonials – Display real customer reviews.
+    🚀 Enhance Animations – Use subtle hover effects for a smoother experience.
+    🚀 Integrate a Booking System – Allow clients to schedule consultations online.
+
+
+🤝 Credits & Acknowledgments
+📚 Online Resources: W3Schools, MDN Docs, Bootstrap Documentation.
+🎨 Image Sources: Google.
