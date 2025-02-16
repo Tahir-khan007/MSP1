@@ -27,18 +27,6 @@ Green Genie Landscapes is a modern, user-friendly website designed to showcase t
     Use the contact form to inquire about services.
     Follow the company on social media for updates.
 
-<!-- 🏗 Wireframes (W3R)
-The website’s structure was planned using wireframes to ensure a clear and effective user experience. The wireframes were created using Balsamiq.
-Device
-Wireframe
-Desktop
-(Replace with actual wireframe image)
-Tablet
-(Replace with actual wireframe image)
-Mobile
-(Replace with actual wireframe image)
-📄 View Full Wireframe Document: Download PDF -->
-
 🎨 Design Choices
 
 🌈 Color Scheme
