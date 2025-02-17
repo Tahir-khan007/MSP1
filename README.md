@@ -1,7 +1,7 @@
 🌿 Green Genie Landscapes
 A responsive website for a landscaping company offering garden design, paving, and artificial grass solutions.
-🔗 Live Website: (https://tahir-khan007.github.io/mlp1/)
-🔗 GitHub Repository: (https://github.com/Tahir-khan007/mlp1)
+🔗 Live Website: (https://tahir-khan007.github.io/MSP1/)
+🔗 GitHub Repository: (https://github.com/Tahir-khan007/MSP1)
 
 📌 Project Overview
 Green Genie Landscapes is a modern, user-friendly website designed to showcase the company’s services, including:
