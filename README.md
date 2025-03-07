@@ -1,110 +1,155 @@
-🌿 Green Genie Landscapes
-A responsive website for a landscaping company offering garden design, paving, and artificial grass solutions.
-🔗 Live Website: (https://tahir-khan007.github.io/MSP1/)
-🔗 GitHub Repository: (https://github.com/Tahir-khan007/MSP1)
+# 🌿 Green Genie Landscapes
 
-📌 Project Overview
-Green Genie Landscapes is a modern, user-friendly website designed to showcase the company’s services, including:
-✅ Custom Garden Design – Tailored outdoor spaces for clients.
-✅ Porcelain Paving – Durable and stylish paving solutions.
-✅ Artificial Grass – Low-maintenance greenery for all seasons.
-✅ Before & After Transformations – Showcasing completed projects.
-✅ Easy Contact Form – Quick inquiries and quote requests.
+A responsive website for a landscaping company offering garden design, paving, and artificial grass solutions, aimed at showcasing the company's services and encouraging customer inquiries and bookings.
 
-🎯 Business Goals
-🔹 Increase customer inquiries and bookings for services.
-🔹 Provide a professional online presence for the company.
-🔹 Showcase before & after transformations to attract potential clients.
+## Code Institute - Milestone Project 1
 
-👥 User Experience (UX)
+### HTML/CSS Essentials - Users Centric, Static Front-End Website
 
-🎯 User Stories
-👤 First-Time Visitors
-    Quickly understand the services offered.
-    View the before & after video for inspiration.
-    Easily find contact details & request a quote.
-🔄 Returning Users
-    Use the contact form to inquire about services.
-    Follow the company on social media for updates.
+### By Tahir Khan
 
-🎨 Design Choices
+[View Repository on GitHub](https://github.com/Tahir-khan007/MSP1)
 
-🌈 Color Scheme
-Green & Earth Tones: Represent nature, growth, and sustainability.
-White & Grey Accents: Give a clean and modern feel.
+[View Live Website](https://tahir-khan007.github.io/MSP1/)
 
-🖋 Typography
-Poppins Font for Headings and Paragraphs
-Headings: A bold, modern font for clarity.
-Paragraphs: A simple, easy-to-read font for accessibility.
+## The Why
 
-🖼 Images
-Hero Image: A stunning outdoor space to attract users' attention.
-Before & After Gallery: Demonstrates the company’s expertise.
+The primary goal of this website is to showcase the services offered by Green Genie Landscapes, such as garden design, paving, and artificial grass solutions. It aims to attract potential customers by displaying before and after transformations, making it easy for users to inquire about services and request quotes. The website is designed to help build a professional online presence for the company and facilitate customer bookings.
 
-🏗 Features
-✅ Navigation Bar – Clear links to Home, Gallery, and Contact pages.
-✅ Image Gallery – Showcases completed landscaping projects.
-✅ Contact Form – Allows customers to request quotes easily.
-✅ Social Media Links – Enables users to connect on platforms like Facebook & Instagram.
+## Business Goal
 
-🔮 Future Features:
-Online Booking System – Allow users to schedule consultations.
-Testimonials Section – Show reviews from satisfied clients.
++ Increase customer inquiries and bookings for services.
++ Provide a professional online presence for the company.
++ Showcase before & after transformations to attract potential clients.
 
-🛠 Technologies Used
-HTML5 – Page structure.
-CSS3 – Styling and layout.
-Bootstrap – Responsive design.
-Font Awesome – Icons for social media links.
+## (UX) User Experience:
 
-🛠 Development & Deployment
-🔹 Version Control & Deployment
-        Developed using Git & GitHub.
-        Hosted on GitHub Pages.
+Users will be able to easily navigate the website to understand the services offered, view completed projects, and request quotes. The contact form is designed to make inquiries simple and quick. 
 
-🔹 Clone This Repository Locally
-        git clone https://github.com/tahir-khan007/mlp1.git
+### User Stories
 
-🔹 Forking This Repository
-        Log into GitHub.
-        Locate the repository and click Fork at the top right.
-        You now have a copy of the project in your GitHub account.
+- #### First-time Users Goals:
+  - To quickly understand the services offered.
+  - To view the before & after transformations for inspiration.
+  - To easily find contact details and request a quote.
 
-🧪 Testing
-    Html Homepage testing results
-    ![alt text](images/testing-screenshots/image-3.png)
-    Html Gallery Page Testing results
-    ![alt text](images/testing-screenshots/image-4.png)
-    Html Contact Page Testing Results
-    ![alt text](images/testing-screenshots/image-5.png)
-✅ Validation Tests
-HTML – Passed W3C validation.
-    Homepage
-    ![alt text](images/testing-screenshots/image-6.png)
-    Gallery Page
-    ![alt text](images/testing-screenshots/image-7.png)
-    Contact Page
-    ![alt text](images/testing-screenshots/image-8.png)
-CSS – No major errors found.
-    For Home Page
-    ![alt text](images/testing-screenshots/image.png)
-    For Gallery Page
-    ![alt text](images/testing-screenshots/image-1.png)
-    For Contact Page
-    ![alt text](images/testing-screenshots/image-2.png)
+- #### Returning Users Goals:
+  - To use the contact form to inquire about services.
+  - To follow the company on social media for updates and promotions.
 
-🏆 Challenges & Learning
-🔹 Font Awesome Social Links Issue: Initially, the Font Awesome icons were too large when using the fa-xl class. My nephew helped troubleshoot the issue by adjusting the CSS styling manually.
-🔹 Contact Form Alignment: Ensured proper spacing & responsiveness for different screen sizes.
+## Design:
 
-📌 Future Enhancements
-    🚀 Improve SEO – Optimize metadata for better Google ranking.
-    🚀 Add Client Testimonials – Display real customer reviews.
-    🚀 Enhance Animations – Use subtle hover effects for a smoother experience.
-    🚀 Integrate a Booking System – Allow clients to schedule consultations online.
+The design is modern and clean, reflecting the natural beauty and sustainability of the services provided by Green Genie Landscapes. The website uses earthy colors and a professional layout to create a welcoming and calming environment for potential clients.
 
+### Design Brief:
 
-🤝 Credits & Acknowledgments
-📚 Online Resources: W3Schools, MDN Docs, Bootstrap Documentation.
-🎨 Image Sources: Google.
++ **Color**:
+  - **Green & Earth Tones**: Represent nature, growth, and sustainability.
+  - **White & Grey Accents**: Give a clean, modern feel to the design.
+
++ **Typography**:
+  - **Poppins**: Bold, modern font for headings and easy-to-read font for paragraphs.
+
++ **Images**:
+  - **Hero Image**: A stunning outdoor space to attract users' attention.
+  - **Before & After Gallery**: Showcases the company’s expertise and successful projects.
+
+## Features
+
+### Existing Features:
+
+- **Navigation Bar**: Links to the Home, Gallery, and Contact pages.
+- **Image Gallery**: Showcases completed landscaping projects.
+- **Contact Form**: Allows customers to easily request quotes.
+- **Social Media Links**: Connect with the company on Facebook, Instagram, and more.
+
+### Future Features:
+- **Online Booking System**: Allow users to schedule consultations directly.
+- **Testimonials Section**: Display reviews from satisfied clients.
+
+## Technologies:
+
+### Languages used:
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+### Other tools:
+- [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)): Used for responsive design and layout.
+- [Font Awesome](https://fontawesome.com/v4.7/icons/): Used for icons, including social media links.
+
+## Testing:
+
+### Testing Results:
+
+#### HTML Testing:
+- **Homepage Testing Results**:
+  ![Homepage Testing](images/testing-screenshots/image-3.png)
+
+- **Gallery Page Testing Results**:
+  ![Gallery Testing](images/testing-screenshots/image-4.png)
+
+- **Contact Page Testing Results**:
+  ![Contact Page Testing](images/testing-screenshots/image-5.png)
+
+#### Validation Tests:
+
+- **HTML Validation**: Passed W3C validation.
+  - **Homepage**:
+    ![Homepage HTML Validator](images/testing-screenshots/image-6.png)
+  - **Gallery Page**:
+    ![Gallery HTML Validator](images/testing-screenshots/image-7.png)
+  - **Contact Page**:
+    ![Contact HTML Validator](images/testing-screenshots/image-8.png)
+
+- **CSS Validation**: No major errors found.
+  - **Homepage**:
+    ![Homepage CSS Validator](images/testing-screenshots/image.png)
+  - **Gallery Page**:
+    ![Gallery CSS Validator](images/testing-screenshots/image-1.png)
+  - **Contact Page**:
+    ![Contact CSS Validator](images/testing-screenshots/image-2.png)
+
+## Challenges & Learning:
+
+- **Font Awesome Icons Issue**: The social media icons were initially too large due to the fa-xl class. The issue was resolved by manually adjusting the CSS styling, with help from a colleague.
+- **Contact Form Alignment**: Spent time ensuring that the form was properly aligned and responsive across different screen sizes.
+
+## Future Enhancements:
+
+- 🚀 **Improve SEO**: Optimize metadata for better Google ranking.
+- 🚀 **Add Client Testimonials**: Display real customer reviews to enhance trust.
+- 🚀 **Enhance Animations**: Use subtle hover effects for a smoother user experience.
+- 🚀 **Integrate Booking System**: Allow users to schedule consultations directly from the site.
+
+## Deployment:
+
+### Inception:
+- The project was created using a template from GitHub, renamed to `MSP1-Green-Genie-Landscapes`.
+
+### GitHub Pages Deployment:
+1. Log in to GitHub and locate the repository.
+2. Go to **Settings**.
+3. Scroll to the **GitHub Pages** section.
+4. Under **Source**, select **Master Branch**.
+5. The website will be live at the provided GitHub Pages link.
+
+### Cloning Repository Locally:
+- Clone the repository using the following command:
+git clone https://github.com/tahir-khan007/ms1.git
+
+### Forking Repository:
+1. Log in to GitHub and locate the repository.
+2. Click the **Fork** button at the top-right.
+3. This will create a copy of the project in your GitHub account.
+
+## Credits:
+
+### Acknowledgements:
+A huge thank you to my mentor and the Code Institute tutors for their guidance and support throughout the project.
+
+### Resources:
+- [W3Schools](https://www.w3schools.com/)
+- [MDN Docs](https://developer.mozilla.org/)
+- [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/)
+- [Font Awesome](https://fontawesome.com/)
+- [Image Sources: Google Images, Instagram, Unsplash](https://unsplash.com/)
