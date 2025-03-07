@@ -123,15 +123,9 @@ The design is modern and clean, reflecting the natural beauty and sustainability
 
 ## Deployment:
 
-### Inception:
-- The project was created using a template from GitHub, renamed to `MSP1-Green-Genie-Landscapes`.
-
-### GitHub Pages Deployment:
-1. Log in to GitHub and locate the repository.
-2. Go to **Settings**.
-3. Scroll to the **GitHub Pages** section.
-4. Under **Source**, select **Master Branch**.
-5. The website will be live at the provided GitHub Pages link.
+###  Version Control & Deployment
+      Developed using Git, GitHub & VS Code.
+      Hosted on GitHub Pages.
 
 ### Cloning Repository Locally:
 - Clone the repository using the following command:
